@@ -20,7 +20,7 @@ class Navbar extends Component {
         <ul className="navbar-nav px-3">
           <li className="navbar-brand col-sm-3 col-md-2 mr-0">
             <img src={farmer} width="30" height="30" className="d-inline-block align-top" alt=""/>
-          &nbsp; <b> DApp Yield Farming </b>
+          &nbsp; <b> DApp Staking </b>
           </li>
         </ul>
       </nav>
